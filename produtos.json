@@ -1,0 +1,32 @@
+[
+  {
+    "caracteristica": "bebidas",
+    "nome": "água",
+    "preco": "2",
+    "quantidade": "120"
+  },
+  {
+    "caracteristica": "laticionios",
+    "nome": "Leite",
+    "preco": "12",
+    "quantidade": "120"
+  },
+  {
+    "caracteristica": "bebidas",
+    "nome": "coca-cola",
+    "preco": "100",
+    "quantidade": "12"
+  },
+  {
+    "caracteristica": "plastico",
+    "nome": "garrafa de água",
+    "preco": "30",
+    "quantidade": "5"
+  },
+  {
+    "caracteristica": "teste",
+    "nome": "teste",
+    "preco": "22",
+    "quantidade": "22"
+  }
+]
